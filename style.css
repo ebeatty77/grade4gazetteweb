@@ -11,6 +11,7 @@
 .link {
     text-decoration: none;
     font-family: cursive;
+    color: black;
 }
 .link:hover {
     color: red;
