@@ -8,3 +8,15 @@
   margin-right: auto;
   width: 50%;
 }
+.link {
+    text-decoration: none;
+    font-family: cursive;
+}
+.link:hover {
+    color: red;
+    text-decoration: underline;
+}
+.link:active {
+    color: green;
+    text-decoration: bold;
+}
